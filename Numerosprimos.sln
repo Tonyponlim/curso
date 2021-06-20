@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerosprimos", "Numerosprimos\Numerosprimos.csproj", "{5D0B48D6-84C5-4DB1-9FA9-F67EC620E5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0B48D6-84C5-4DB1-9FA9-F67EC620E5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0B48D6-84C5-4DB1-9FA9-F67EC620E5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0B48D6-84C5-4DB1-9FA9-F67EC620E5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0B48D6-84C5-4DB1-9FA9-F67EC620E5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95709507-5B7A-43C1-AF6F-7CD6786D03A3}
+	EndGlobalSection
+EndGlobal
