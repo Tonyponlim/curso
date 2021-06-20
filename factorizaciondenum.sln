@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorizaciondenum", "factorizaciondenum\factorizaciondenum.csproj", "{2AB5B9DA-3C17-4D65-920B-B8DFE615FFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB5B9DA-3C17-4D65-920B-B8DFE615FFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB5B9DA-3C17-4D65-920B-B8DFE615FFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB5B9DA-3C17-4D65-920B-B8DFE615FFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB5B9DA-3C17-4D65-920B-B8DFE615FFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653B85E2-D9A4-47D3-AADD-951C3426078B}
+	EndGlobalSection
+EndGlobal
